@@ -1,0 +1,225 @@
+D:\C#\雷霆战机\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+D:\C#\雷霆战机\obj\Debug\雷霆战机.Form1.resources
+D:\C#\雷霆战机\obj\Debug\雷霆战机.Properties.Resources.resources
+D:\C#\雷霆战机\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+D:\C#\雷霆战机\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+D:\C#\雷霆战机\bin\Debug\雷霆战机.exe.config
+D:\C#\雷霆战机\bin\Debug\雷霆战机.exe
+D:\C#\雷霆战机\bin\Debug\雷霆战机.pdb
+D:\C#\雷霆战机\obj\Debug\雷霆战机.exe
+D:\C#\雷霆战机\obj\Debug\雷霆战机.pdb
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\bin\Debug\雷霆战机.exe.config
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\bin\Debug\雷霆战机.exe
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\bin\Debug\雷霆战机.pdb
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\obj\Debug\雷霆战机.exe
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\obj\Debug\雷霆战机.pdb
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\Rank5\Desktop\游戏开发\飞机\雷霆战机\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\bin\Debug\雷霆战机.exe.config
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\bin\Debug\雷霆战机.exe
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\bin\Debug\雷霆战机.pdb
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\obj\Debug\雷霆战机.exe
+C:\Users\wuluq\Desktop\c#\飞机\雷霆战机\obj\Debug\雷霆战机.pdb
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\bin\Debug\雷霆战机.exe.config
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\bin\Debug\雷霆战机.exe
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\bin\Debug\雷霆战机.pdb
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.exe
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.pdb
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\bin\Debug\CSkin.dll
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\bin\Debug\CSkin.xml
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.CopyComplete
+C:\Users\Rank5\Desktop\游戏开发\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.GamePause_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\bin\Debug\雷霆战机.exe.config
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\bin\Debug\雷霆战机.exe
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\bin\Debug\雷霆战机.pdb
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\bin\Debug\CSkin.xml
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.GamePause_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.csproj.CopyComplete
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.exe
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机\obj\Debug\雷霆战机.pdb
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\bin\Debug\雷霆战机.exe.config
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\bin\Debug\雷霆战机.exe
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\bin\Debug\雷霆战机.pdb
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\bin\Debug\CSkin.xml
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.GamePause_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.csproj.CopyComplete
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.exe
+C:\Users\wuluq\Desktop\c#\飞机1\飞机\雷霆战机1\obj\Debug\雷霆战机.pdb
+D:\tim download\雷霆战机6-12\bin\Debug\雷霆战机.exe.config
+D:\tim download\雷霆战机6-12\bin\Debug\雷霆战机.exe
+D:\tim download\雷霆战机6-12\bin\Debug\雷霆战机.pdb
+D:\tim download\雷霆战机6-12\bin\Debug\CSkin.xml
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.GamePause_Form.resources
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.Game_Form.resources
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.Market_Form.resources
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.Menue_Form.resources
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.Properties.Resources.resources
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.csproj.CopyComplete
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.exe
+D:\tim download\雷霆战机6-12\obj\Debug\雷霆战机.pdb
+D:\tim download\雷霆战机618(1\bin\Debug\雷霆战机.exe.config
+D:\tim download\雷霆战机618(1\bin\Debug\雷霆战机.exe
+D:\tim download\雷霆战机618(1\bin\Debug\雷霆战机.pdb
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.GamePause_Form.resources
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.Game_Form.resources
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.Market_Form.resources
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.Menue_Form.resources
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.Properties.Resources.resources
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.csproj.CopyComplete
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.exe
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.pdb
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+D:\tim download\雷霆战机618(1\obj\Debug\雷霆战机.Game_Die.resources
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\bin\Debug\雷霆战机.exe.config
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\bin\Debug\雷霆战机.exe
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\bin\Debug\雷霆战机.pdb
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.GamePause_Form.resources
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.Game_Die.resources
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.Welcome.resources
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.csproj.CopyComplete
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.exe
+C:\Users\RKK\Desktop\雷霆战机618(2\雷霆战机618(1\obj\Debug\雷霆战机.pdb
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\bin\Debug\雷霆战机.exe.config
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\bin\Debug\雷霆战机.exe
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\bin\Debug\雷霆战机.pdb
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.GamePause_Form.resources
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.Game_Die.resources
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.Welcome.resources
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.csproj.CopyComplete
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.exe
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.pdb
+C:\Users\李志宇\OneDrive\桌面\雷霆战机\雷霆战机618(3\obj\Debug\雷霆战机.Introduction_Form.resources
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\bin\Debug\雷霆战机.exe.config
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\bin\Debug\雷霆战机.exe
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\bin\Debug\雷霆战机.pdb
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.GamePause_Form.resources
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.Game_Die.resources
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.Introduction_Form.resources
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.Welcome.resources
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.csproj.CopyComplete
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.exe
+C:\Users\wuluq\Desktop\c#\雷霆战机618(3\obj\Debug\雷霆战机.pdb
+D:\tim download\雷霆战机618(4\bin\Debug\雷霆战机.exe.config
+D:\tim download\雷霆战机618(4\bin\Debug\雷霆战机.exe
+D:\tim download\雷霆战机618(4\bin\Debug\雷霆战机.pdb
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.GamePause_Form.resources
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.Game_Die.resources
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.Game_Form.resources
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.Introduction_Form.resources
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.Market_Form.resources
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.Menue_Form.resources
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.Properties.Resources.resources
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.Welcome.resources
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.csproj.CopyComplete
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.exe
+D:\tim download\雷霆战机618(4\obj\Debug\雷霆战机.pdb
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\bin\Debug\雷霆战机.exe.config
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\bin\Debug\雷霆战机.exe
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\bin\Debug\雷霆战机.pdb
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.GamePause_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.Game_Die.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.Introduction_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.Welcome.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.csproj.CopyComplete
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.exe
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\雷霆战机619\obj\Debug\雷霆战机.pdb
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\bin\Debug\雷霆战机.exe.config
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\bin\Debug\雷霆战机.exe
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\bin\Debug\雷霆战机.pdb
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.GamePause_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.Game_Die.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.Introduction_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.Welcome.resources
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.csproj.CopyComplete
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.exe
+C:\Users\MR\Documents\Tencent Files\827090198\FileRecv\最终版\obj\Debug\雷霆战机.pdb
+C:\Users\MR\Desktop\实验程序\雷霆战机\bin\Debug\雷霆战机.exe.config
+C:\Users\MR\Desktop\实验程序\雷霆战机\bin\Debug\雷霆战机.exe
+C:\Users\MR\Desktop\实验程序\雷霆战机\bin\Debug\雷霆战机.pdb
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.csprojAssemblyReference.cache
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.GamePause_Form.resources
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.Game_Die.resources
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.Game_Form.resources
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.Introduction_Form.resources
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.Market_Form.resources
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.Menue_Form.resources
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.Properties.Resources.resources
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.Welcome.resources
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.csproj.GenerateResource.cache
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.csproj.CoreCompileInputs.cache
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.csproj.CopyComplete
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.exe
+C:\Users\MR\Desktop\实验程序\雷霆战机\obj\Debug\雷霆战机.pdb

@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{511C4EE3-E465-475E-B1C3-F6E44660B259}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>雷电</RootNamespace>
+    <AssemblyName>雷电</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>..\..\..\..\CSkin 16.1.14.3 (1)\CSkin 16.1.14.3\CSkin 4.0\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BGMusic.cs" />
+    <Compile Include="Bullet.cs" />
+    <Compile Include="BulletBuff.cs" />
+    <Compile Include="Game_Die.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game_Die.Designer.cs">
+      <DependentUpon>Game_Die.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Introduction_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Introduction_Form.Designer.cs">
+      <DependentUpon>Introduction_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Music.cs" />
+    <Compile Include="MyFile.cs" />
+    <Compile Include="GameLevel.cs" />
+    <Compile Include="LevelDesign.cs" />
+    <Compile Include="PlayerSkill.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Skill.cs" />
+    <Compile Include="Suit.cs" />
+    <Compile Include="GamePause_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GamePause_Form.Designer.cs">
+      <DependentUpon>GamePause_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Market.cs" />
+    <Compile Include="Market_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Market_Form.Designer.cs">
+      <DependentUpon>Market_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medkit.cs" />
+    <Compile Include="Rocks.cs" />
+    <Compile Include="Supplies.cs" />
+    <Compile Include="Scores.cs" />
+    <Compile Include="EnemyBullet.cs" />
+    <Compile Include="EnemyExplosion.cs" />
+    <Compile Include="Explosion.cs" />
+    <Compile Include="Menue_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menue_Form.Designer.cs">
+      <DependentUpon>Menue_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obj.cs" />
+    <Compile Include="BackGround.cs" />
+    <Compile Include="Game_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game_Form.Designer.cs">
+      <DependentUpon>Game_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameObj.cs" />
+    <Compile Include="Plane.cs" />
+    <Compile Include="PlaneEnemy.cs" />
+    <Compile Include="PlanePlayer.cs" />
+    <Compile Include="PlayerBullet.cs" />
+    <Compile Include="PlayerExplosion.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Weapon.cs" />
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GamePause_Form.resx">
+      <DependentUpon>GamePause_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game_Die.resx">
+      <DependentUpon>Game_Die.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game_Form.resx">
+      <DependentUpon>Game_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Introduction_Form.resx">
+      <DependentUpon>Introduction_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Market_Form.resx">
+      <DependentUpon>Market_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menue_Form.resx">
+      <DependentUpon>Menue_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonBlue.png" />
+    <None Include="Resources\buttonGreen.png" />
+    <None Include="Resources\bg.png" />
+    <None Include="Resources\loading.png" />
+    <None Include="Resources\bullet5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Boom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medkit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BulletBuff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemybullet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroud.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\welcome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\powerupGreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\load.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\load %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ep_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loding.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planeplayer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerShip2_damage3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerShip2_damage2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerShip2_damage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerShip2_damage0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ep_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blow.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boss_1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
