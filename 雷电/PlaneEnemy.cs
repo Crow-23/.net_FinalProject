@@ -98,13 +98,13 @@ namespace 雷电
             {
                 case 1:
                 case 11:
-                    return 15;
+                    return 30;
                 case 2:
-                    return 15;
+                    return 30;
                 case 3:
-                    return 15;
+                    return 30;
                 case 4:
-                    return 5;
+                    return 30;
                 case 5:
                     return 1000;
             }
