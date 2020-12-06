@@ -45,7 +45,7 @@
   <td width=179 valign=top style='width:134.45pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><b><span
-  style='color:black'>郭坚熊（<span lang=EN-US>2018326660145</span>）</span></b></p>
+  style='color:black'>郭坚雄（<span lang=EN-US>2018326660145</span>）</span></b></p>
   </td>
   <td width=374 valign=top style='width:280.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
