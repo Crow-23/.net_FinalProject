@@ -51,7 +51,7 @@
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><b><span
-  style='color:black'>关卡，武器，敌人飞行射击模式</span></b></p>
+  style='color:black'>关卡，武器道具，敌人射击模式，部分碰撞检测</span></b></p>
   </td>
  </tr>
 </table>
